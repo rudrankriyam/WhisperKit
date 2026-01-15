@@ -1,4 +1,6 @@
 
+[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/WhisperKit&type=Date)](https://star-history.com/#rudrankriyam/WhisperKit&Date)
+
 <div align="center">
   
 <a href="https://github.com/argmaxinc/WhisperKit#gh-light-mode-only">
