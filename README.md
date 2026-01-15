@@ -1,5 +1,4 @@
 
-[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/WhisperKit&type=Date)](https://star-history.com/#rudrankriyam/WhisperKit&Date)
 
 <div align="center">
   
@@ -197,3 +196,5 @@ If you use WhisperKit for academic work, here is the BibTeX:
    URL = {https://github.com/argmaxinc/WhisperKit}
 }
 ```
+
+[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/WhisperKit&type=Date)](https://star-history.com/#rudrankriyam/WhisperKit&Date)
